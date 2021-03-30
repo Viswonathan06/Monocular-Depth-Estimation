@@ -1,4 +1,4 @@
-# CLSTM-for-SDA
+# Monocular Depth Estimation for SDA
 ## Intelligence Mobility Labs — Computer Vision Intern
 Jan 2020 - Mar 2020
 
